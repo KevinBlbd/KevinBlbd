@@ -1,4 +1,7 @@
-### Hello Flamingos 👋
+# Hello Flamingos 👋
+
+I´m a graphic designer from France, learning coding.
+Here is my portfolio => [link](https://www.grandprock.com)
 
 <!--
 **KevinBlbd/KevinBlbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
