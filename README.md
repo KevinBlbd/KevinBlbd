@@ -5,6 +5,12 @@ Here is my portfolio => [link](https://www.grandprock.com)
 
 ![link](https://freight.cargo.site/w/723/q/94/i/ed64e7f6d5be100337a02cc28649c6f56992dd1b617b21f67cd569f952837d71/logo-04-2.png)
 
+Skills:
+- Photoshop
+- Illustrator
+- InDesign
+- PremierePro
+
 <!--
 **KevinBlbd/KevinBlbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
