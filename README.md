@@ -12,6 +12,7 @@ currently_learning: bootcamp:Web_Dev @Neuefische
 Here is my portfolio => [link](https://www.grandprock.com)
 ```
 
+
 ![link](https://freight.cargo.site/w/723/q/94/i/ed64e7f6d5be100337a02cc28649c6f56992dd1b617b21f67cd569f952837d71/logo-04-2.png)
 
 Skills:
@@ -19,6 +20,13 @@ Skills:
 - Illustrator
 - InDesign
 - PremierePro
+
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/kevinbalabaud">
+  <img alt="Kev's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+<br>
+</p>
 
 <!--
 **KevinBlbd/KevinBlbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
