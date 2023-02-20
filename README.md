@@ -27,6 +27,11 @@ Skills:
   <img alt="Kev's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 <br>
 </p>
+  
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
 
 <!--
 **KevinBlbd/KevinBlbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
