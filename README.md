@@ -18,6 +18,8 @@ Skills:
 - InDesign
 - PremierePro
 
+[Contact Me](kevinbalabaud@gmail.com)
+
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/kevinbalabaud">
