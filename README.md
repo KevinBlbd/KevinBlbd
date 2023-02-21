@@ -9,9 +9,9 @@ education: "Master´s in Visual Communication" "Bachelor in Project Management"
 
 currently_learning: bootcamp:Web_Dev @Neuefische
 
-Here is my portfolio [link] (https://www.grandprock.com) 
-
 ```
+
+Here is my portfolio [link](https://www.grandprock.com) 
 
 Skills:
 - Photoshop
