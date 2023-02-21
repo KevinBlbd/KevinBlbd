@@ -1,4 +1,4 @@
-# Hello Flamingos 👋
+# Hello 👋
 
 ```yaml
 name: Kevin Balabaud
