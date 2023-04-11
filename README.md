@@ -29,35 +29,6 @@ Skills:
 </p>
   
   
-  ```yaml
-                             ,--.
-                          {    }
-                          K,   }
-                         /  `Y`
-                    _   /   /
-                   {_'-K.__/
-                     `/-.__L._
-                     /  ' /`\_}
-                    /  ' /
-            ____   /  ' /
-     ,-'~~~~    ~~/  ' /_
-   ,'             ``~~~%%',
-  (                     %  Y
- {                      %% I
-{      -                 %  `.
-|       ',                %  )
-|        |   ,..__      __. Y
-|    .,_./  Y ' / ^Y   J   )|
-\           |' /   |   |   ||
- \          L_/    . _ (_,.'(
-  \,   ,      ^^""' / |      )
-    \_  \          /,L]     /
-      '-_`-,       ` `   ./`
-         `-(_            )
-             ^^\..___,.--`
-  
-  ```
-  
   <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
