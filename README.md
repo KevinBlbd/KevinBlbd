@@ -14,13 +14,13 @@ currently_learning: Web_Dev bootcamp @Neuefische
 Here is my portfolio [link](https://www.grandprock.com) 
 
 Skills:
-- HTML
-- CSS
+- HTML, CSS
 - JavaScript
 - React
 - Next
 - MongoDB
 
+Design:
 - Photoshop
 - Illustrator
 - InDesign
