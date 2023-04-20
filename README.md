@@ -17,7 +17,8 @@ Learning:
 - HTML, CSS
 - JavaScript
 - React
-- Next
+- Next.js
+- Node.js
 - MongoDB
 ...
 
