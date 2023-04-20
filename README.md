@@ -7,13 +7,20 @@ from: Paris
 job: graphic designer
 education: "Master´s in Visual Communication" "Bachelor in Project Management"
 
-currently_learning: bootcamp:Web_Dev @Neuefische
+currently_learning: Web_Dev bootcamp @Neuefische
 
 ```
 
 Here is my portfolio [link](https://www.grandprock.com) 
 
 Skills:
+- HTML
+- CSS
+- JavaScript
+- React
+- Next
+- MongoDB
+
 - Photoshop
 - Illustrator
 - InDesign
