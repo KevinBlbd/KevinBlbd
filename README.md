@@ -11,7 +11,7 @@ currently_learning: Web_Dev bootcamp @Neuefische
 
 ```
 
-Here is my portfolio [link](https://www.grandprock.com) 
+Here is my [portfolio](https://www.grandprock.com) 
 
 Learning:
 - HTML, CSS
