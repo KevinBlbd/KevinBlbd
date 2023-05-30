@@ -4,10 +4,12 @@
 name: Kevin Balabaud
 located_in: Hamburg
 from: Paris
-job: graphic designer
-education: "Master´s in Visual Communication" "Bachelor in Project Management"
 
-currently_learning: Web_Dev bootcamp @Neuefische
+currently_learning: Web_Dev bootcamp @Neuefische 
+
+formerly: graphic designer, art director
+education: "Master in Marketing and Digital Communication" "Bachelor in digital project management"
+
 
 ```
 
@@ -27,6 +29,8 @@ Skills:
 - Illustrator
 - InDesign
 - PremierePro
+- AfterEffect
+- Cubase, Ableton Live
 
 [Contact](kevinbalabaud@gmail.com)
 
