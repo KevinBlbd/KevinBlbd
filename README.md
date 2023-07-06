@@ -8,7 +8,7 @@ from: Paris
 currently_learning: Web_Dev bootcamp @Neuefische 
 
 formerly: graphic designer, art director
-education: "Master in Marketing and Digital Communication" "Bachelor in digital project management"
+education: "Master in Marketing and Digital Communication" "Bachelor in digital project Management"
 
 
 ```
